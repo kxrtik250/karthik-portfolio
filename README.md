@@ -28,3 +28,15 @@ git push -u origin main
 ```
 
 After pushing, open the repository on GitHub, go to `Settings > Pages`, and set the source to `GitHub Actions`.
+
+## Update the Live Site
+
+After editing the portfolio locally, push the latest changes:
+
+```powershell
+git add .
+git commit -m "Update portfolio from resume"
+git push
+```
+
+GitHub Pages will redeploy automatically from the workflow.
