@@ -1,0 +1,18 @@
+{
+  "name": "S. Karthik Sriram Portfolio",
+  "short_name": "Karthik Portfolio",
+  "description": "Software engineering portfolio for S. Karthik Sriram.",
+  "start_url": "/karthik-portfolio/",
+  "scope": "/karthik-portfolio/",
+  "display": "standalone",
+  "background_color": "#f6f8fb",
+  "theme_color": "#0f766e",
+  "icons": [
+    {
+      "src": "assets/profile.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any"
+    }
+  ]
+}

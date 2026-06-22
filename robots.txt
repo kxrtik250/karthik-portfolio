@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kxrtik250.github.io/karthik-portfolio/sitemap.xml
